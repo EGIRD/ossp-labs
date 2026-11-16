@@ -1,0 +1,10 @@
+*.exe
+*.o
+*.obj
+
+.vscode/
+launch.json
+tasks.json
+
+build/
+out/
